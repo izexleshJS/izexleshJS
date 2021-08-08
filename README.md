@@ -1,6 +1,6 @@
 # ✨ Hi, I am Izexlesh
 
-Hi my name is, Taha. 1 year ago, I started developing software by developing discord bots. I am currently dealing with javascript html and css
+Hi my name is, Taha. 8 months ago, I started developing software by developing discord bots. I am currently dealing with javascript html and css
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=izexleshJS&color=dc143c"/>
